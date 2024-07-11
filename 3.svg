@@ -1,0 +1,40 @@
+<svg data-v-0dd9719b="" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="340" height="250" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB" style="margin: auto;">   
+  <g data-v-0dd9719b="" fill="#333333" class="icon-text-wrapper icon-svg-group iconsvg" transform="translate(110.19574737548828,57.81513977050781)">
+    <g fill="#cd8c2a" class="iconsvg-imagesvg icon_container" transform="translate(18.30425262451172,0)" mask="url(#5816abd9-0bb7-4ee3-8fed-fbbfc7b2e570)">
+      <rect fill="#333333" fill-opacity="0" stroke-width="2" x="0" y="0" width="83" height="83" class="image-rect"></rect> 
+      <svg x="0" y="0" width="83" height="83" class="image-svg-svg bn" style="overflow: visible;">
+        <g hollow-target="iconBnFill" mask="url(#035646c5-9d5f-4302-8b84-fe783a653a6e)">
+          <g>
+            <svg fill="#000000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering: geometricprecision; text-rendering: geometricprecision; overflow: visible;" x="0" y="0" fill-rule="evenodd" clip-rule="evenodd" width="60" height="60" filtersec="colorsf8818018350" filter="url(#atndO01eKNSPBgKULe379)">
+              <g transform="scale(1, 1) skewX(0)">
+                <defs>
+                  <filter id="atndO01eKNSPBgKULe379">
+                    <feColorMatrix type="matrix" values="0 0 0 0 0.80078125  0 0 0 0 0.546875  0 0 0 0 0.1640625  0 0 0 1 0"></feColorMatrix>
+                  </filter>
+                </defs>
+                <g>
+                  <path class="fil0" d="M125 0c68,0 124,56 124,125 0,68 -56,124 -124,124 -69,0 -125,-56 -125,-124 0,-69 56,-125 125,-125z"></path>
+                </g>
+              </g>
+            </svg>
+          </g> 
+          <g filter="url(#colors7820865555)">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" x="4" y="4" class="image-svg-letter">
+              <path transform="translate(-3.1651554404145075 47.562890624999994)" d="M25.73-47.53L25.73-47.53Q26.58-47.74 28.83-46.55L28.83-46.55Q38.88-45.98 45.07-37.27L45.07-37.27Q51.26-27.49 48.80-17.93L48.80-17.93Q47.67-12.30 43.73-8.09L43.73-8.09Q41.77-6.26 43.95-5.20L43.95-5.20Q46.27-4.36 49.50-3.80L49.50-3.80Q51.82-4.15 52.80-3.09L52.80-3.09Q53.30-1.69 50.98-0.28L50.98-0.28Q46.20 2.25 43.95 1.69L43.95 1.69Q42.26 0.98 39.16-2.18L39.16-2.18Q37.48-3.59 35.37-2.88L35.37-2.88Q22.92 0.98 12.73-4.43L12.73-4.43Q3.94-10.69 3.38-20.60L3.38-20.60Q1.69-32.48 13.57-41.77L13.57-41.77Q17.37-44.23 23.41-46.05L23.41-46.05Q24.33-46.76 25.73-47.53ZM33.82-40.08L33.82-40.08Q22.85-44.79 12.73-34.80L12.73-34.80Q9.63-30.38 9.42-23.98L9.42-23.98Q9.28-16.31 13.15-11.46L13.15-11.46Q15.47-8.51 18.63-7.24L18.63-7.24Q24.12-5.06 31.01-6.54L31.01-6.54Q32.70-7.10 30.59-8.51L30.59-8.51L27.14-10.48Q24.12-11.32 24.47-13.57L24.47-13.57Q24.54-15.33 26.37-17.02L26.37-17.02Q27.77-18.42 28.90-17.58L28.90-17.58Q29.39-17.23 30.16-15.12L30.16-15.12Q32.63-11.88 34.59-10.83L34.59-10.83Q36.77-9.42 38.81-11.18L38.81-11.18Q45.28-19.90 43.03-30.02L43.03-30.02Q40.78-36.35 33.82-40.08Z"></path>
+            </svg>
+          </g>
+        </g>
+        <mask id="035646c5-9d5f-4302-8b84-fe783a653a6e">
+          <g fill="white">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering: geometricprecision; text-rendering: geometricprecision; overflow: visible;" x="0" y="0" fill-rule="evenodd" clip-rule="evenodd" width="60" height="60" filtersec="colorsf8818018350">
+              <g transform="scale(1, 1) skewX(0)">
+                <defs></defs>
+                <g>
+                  <path d="M125 0c68,0 124,56 124,125 0,68 -56,124 -124,124 -69,0 -125,-56 -125,-124 0,-69 56,-125 125,-125z"></path>
+                </g>
+              </g>
+            </svg>
+          </g> 
+          <g fill="black">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 49.72566487208549 49.35266335227272" width="52" height="52" x="4" y="4" class="image-svg-letter">
+              <path transform="translate(-3.1651554404145075 47.562890624999994)" d="M25.73-47.53L25.73-47.53Q26.58-47.74 28.83-46.55L28.83-46.55Q38.88-45.98 45.07-37.27L45.07-37.27Q51.26-27.49 48.80-17.93L48.80-17.93Q47.67-12.30 43.73-8.09L43.73-8.09Q41.77-6.26 43.95-5.20L43.95-5.20Q46.27-4.36 49
